@@ -8,6 +8,6 @@ public class SingleApi {
 
     @GetMapping("/")
     public String getMyName() {
-        return "Tarek Goufa AAAAAAAA";
+        return "Tarek Goufa GTR";
     }
 }
